@@ -1,3 +1,3 @@
 ### hey, Irene here :sparkles:
 
-<div align="center"> SE @UW • SWE intern @Facebook AI • previously SWE/RL @Cloudflare, DL @DarwinAI, cloud infra @WindRiver</div>
+<div align="center"> SE @UW • previously: SWE @Facebook AI, SWE/RL @Cloudflare, DL @DarwinAI, cloud infra @WindRiver • DMs open</div>
